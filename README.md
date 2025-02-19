@@ -77,4 +77,8 @@ This tool is intended for educational and ethical penetration testing purposes o
 This project is licensed under the MIT License.
 
 ## Output
+![Image](https://github.com/user-attachments/assets/abbd5970-943f-45f6-be52-8f03c3fe6ab6)
 
+![Image](https://github.com/user-attachments/assets/23373c30-c547-4c1e-b7fd-56b0392114c4)
+
+![Image](https://github.com/user-attachments/assets/7fd4bca3-ef7a-4e1e-ba31-660f0b579ee2)
