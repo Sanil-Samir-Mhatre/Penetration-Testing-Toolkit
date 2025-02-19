@@ -1,0 +1,30 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+.env
+venv/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore user-specific settings
+*.swp
+*.swo
+.DS_Store
+
+# Ignore password lists and sensitive files
+passwords.txt
+*.cred
+*.key
+
+# Ignore build and dependency directories
+build/
+dist/
+*.egg-info/
+
+# Ignore system-specific files
+Thumbs.db
+
